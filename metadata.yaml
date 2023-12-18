@@ -1,0 +1,36 @@
+_repo: The-Pilgrim-fathers-of-New-England-b-a-history_72018
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Martyn, W. Carlos (William Carlos)
+    aliases:
+    - Martyn, Carlos
+    - Martyn, William Carlos
+    birthdate: 1841
+    deathdate: 1917
+    gutenberg_agent_id: '56502'
+    url: http://www.gutenberg.org/2009/agents/56502
+description: ''
+gutenberg_issued: '2023-11-04'
+identifiers:
+  gutenberg: '72018'
+  lccn: '17005263'
+language: en
+pgterms:marc904: https://archive.org/details/pilgrimfathersof00martrich/page/n5/mode/2up
+pgterms:marc905: 20211212042555martyn
+pgterms:marc906: '1867'
+pgterms:marc907: us
+production_note: Sonya Schermann, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bAmerican Tract Society, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pilgrims (New Plymouth Colony)'
+- !lcsh 'Massachusetts -- History -- Colonial period, ca. 1600-1775'
+- !lcc 'F001'
+- GITenberg
+title: 'The Pilgrim fathers of New England : $b a history'
+url: http://www.gutenberg.org/ebooks/72018
